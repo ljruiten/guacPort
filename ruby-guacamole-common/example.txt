@@ -1,0 +1,6 @@
+5.audio,9.audio/ogg,9.audio/mp4,10.audio/mpeg,10.audio/webm,9.audio/wav;
+5.video,9.video/ogg,9.video/mp4,10.video/webm;
+
+7.connect,29.localhost,4.5906,0.,0.,4.pww,0.,0.,0.,0.,0.,0.,0.,0.,0.,4.true,29.shipview.praxis-automation.nl,4.6906,8.sftpUser,10.pww,0.,0.,0.;
+
+7.connect,29.localhost,4.5906,0.,0.,4.pww,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.;"
